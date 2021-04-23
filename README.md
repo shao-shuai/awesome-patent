@@ -17,6 +17,8 @@ A curated list of good patent stuff.
 ## Patent Search
 
 - [USPTO Public Pair](https://portal.uspto.gov/pair/PublicPair) - Prosecution history of US patents.
+- [Global Patent Search System 全球专利检索系统](https://gpss3.tipo.gov.tw/gpsskmc/gpssbkm?@@0.8292202859200738) - Patent database provided by Taiwan patent offie.
+- [KIPPIS](http://eng.kipris.or.kr/enghome/main.jsp) - Patent database provided by Korea patent office.
 - [China and Global Patent Examination Information Inquiry](http://cpquery.cnipa.gov.cn/) - Prosecution history of Chinese patents.
 - [European Patent Register](https://register.epo.org/regviewer) - Prosecution history of European patents.
 - [PATENTSCOPE](https://patentscope2.wipo.int/search/en/search.jsf) - Patent database provided by WIPO.
