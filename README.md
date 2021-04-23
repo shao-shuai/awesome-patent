@@ -27,6 +27,8 @@ A curated list of good patent stuff.
 - [Espacenet](https://worldwide.espacenet.com/?locale=en_EP) - Patent database provided by EPO.
 - [IPsum](https://www.ipo.gov.uk/p-ipsum.htm) - Patent database provided by UK patent office.
 - [Patent Search and Analytics](http://pss-system.cnipa.gov.cn/sipopublicsearch/portal/uilogin-forwardLogin.shtml) - Patent database provided by CNIPA.
+- [Canadian Patent Database](https://www.ic.gc.ca/opic-cipo/cpd/eng/search/basic.html) - Patent database provided by Canada patent office.
+- [Australian Patent Database](http://pericles.ipaustralia.gov.au/ols/auspat/welcome.do) - Patent database provided by Australia patent office.
 - [Patent Assignment Search](https://assignment.uspto.gov/patent/index.html#/patent/search) - Search for US patent assignment.
 - [Portal | Unified Patents](https://portal.unifiedpatents.com/) - Portal of Unified Patents for searching PTAB, litigation, standards and patent data.
 - [PTAB Open Data](https://developer.uspto.gov/ptab-web/#/search/decisions) - Search for PTAB proceedings and decisions.
@@ -41,9 +43,10 @@ A curated list of good patent stuff.
 - [Patent Damages](http://patent-damages.com/) - A blog focusing on patent damages.
 
 ## Patent Books
-- [Standard Essential Patents and Competition Issues](https://www.springer.com/gp/book/9789811060106)
-- [Patent Engineering](https://www.amazon.com/Patent-Engineering-Portfolio-Controlling-Marketplace/dp/111894609X)
-- [Thesaurus of Claim Construction](https://store.lexisnexis.com/products/thesaurus-of-patent-claim-construction-skuusSku-us-oxf-04642-2-volumes)
+- [Standard Essential Patents and Competition Issues](https://www.springer.com/gp/book/9789811060106) - SEP.
+- [Patent Engineering](https://www.amazon.com/Patent-Engineering-Portfolio-Controlling-Marketplace/dp/111894609X) - Patent engineering.
+- [Thesaurus of Claim Construction](https://store.lexisnexis.com/products/thesaurus-of-patent-claim-construction-skuusSku-us-oxf-04642-2-volumes) - Claim construction.
+- [Winning the Patent Damages](https://www.amazon.com/Winning-Patent-Damages-Case-Litigators/dp/B00AKQCCDW) - Patent damages.
 
 ## Standard Essential Patent
 
