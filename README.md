@@ -2,16 +2,15 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of good stuff in patent analytics.
+A curated list of good patent stuff.
 
-**Note**: This repo does not include commercial patent analytic tools.
+**Note**: This repo does not include commercial patent tools.
 
 ## Contents
 
 - [Patent Search](#patent-search)
 - [Patent Blogs](#patent-blogs)
-- [Patent Licensing]()
-- [Patent Books]()
+- [Patent Books](#patent-books)
 - [Standard Essential Patent](#standard-essential-patent)
 - [Open Source Tools for Patent Analytics](#open-source-tools-for-patent-analytics)
 
@@ -37,8 +36,14 @@ A curated list of good stuff in patent analytics.
 - [Patently-O](https://patentlyo.com/) - the nation's leading patent law blog.
 - [Patent Damages](http://patent-damages.com/) - A blog focusing on patent damages.
 
+## Patent Books
+- [Standard Essential Patents and Competition Issues](https://www.springer.com/gp/book/9789811060106)
+- [Patent Engineering](https://www.amazon.com/Patent-Engineering-Portfolio-Controlling-Marketplace/dp/111894609X)
+- [Thesaurus of Claim Construction](https://store.lexisnexis.com/products/thesaurus-of-patent-claim-construction-skuusSku-us-oxf-04642-2-volumes)
+
 ## Standard Essential Patent
 
+- [Understanding Patent Issues During IEEE Standards Development](https://standards.ieee.org/content/dam/ieee-standards/standards/web/documents/other/patents.pdf)
 - [HEVC Advance](https://accessadvance.com/) - H.265.
 - [MPEG LA](https://www.mpegla.com/) - H.265.
 - [Velos Media](http://velosmedia.com/) - H.265.
@@ -50,6 +55,8 @@ A curated list of good stuff in patent analytics.
 - [PatentsView](https://patentsview.org/) - A platform backed by USPTO for patent analytics (including quarterly updated API).
 - [patentsview](https://github.com/ropensci/patentsview) - An R client to the PatentsView API.
 - [Patent analysis using the Google Patents Public Datasets](https://github.com/google/patents-public-data)
+- [Bulk Data Storage System](https://bulkdata.uspto.gov/) - Bulk data download provided by USPTO.
+- [USPTO API Catalog](https://developer.uspto.gov/api-catalog) - APIs provided by USPTO.
 - [Technology Semantic Network (tech-net.org)](http://www.tech-net.org/) - Technology semantic network based on patent data.
   - [Paper :newspaper:](https://arxiv.org/ftp/arxiv/papers/1906/1906.00411.pdf)
 
