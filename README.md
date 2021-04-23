@@ -17,13 +17,15 @@ A curated list of good patent stuff.
 ## Patent Search
 
 - [USPTO Public Pair](https://portal.uspto.gov/pair/PublicPair) - Prosecution history of US patents.
-- [Global Patent Search System 全球专利检索系统](https://gpss3.tipo.gov.tw/gpsskmc/gpssbkm?@@0.8292202859200738) - Patent database provided by Taiwan patent offie.
+- [USPTO Patent Full-Text Database](http://patft.uspto.gov/netahtml/PTO/search-adv.htm) - Weekly updated search enginer provided by USPTO.
+- [Global Patent Search System 全球专利检索系统](https://gpss3.tipo.gov.tw/gpsskmc/gpssbkm?@@0.8292202859200738) - Patent database provided by Taiwan patent office.
 - [KIPPIS](http://eng.kipris.or.kr/enghome/main.jsp) - Patent database provided by Korea patent office.
 - [China and Global Patent Examination Information Inquiry](http://cpquery.cnipa.gov.cn/) - Prosecution history of Chinese patents.
 - [European Patent Register](https://register.epo.org/regviewer) - Prosecution history of European patents.
 - [PATENTSCOPE](https://patentscope2.wipo.int/search/en/search.jsf) - Patent database provided by WIPO.
 - [J-PlatPat](https://www.j-platpat.inpit.go.jp/) - Patent database provided by JPO.
 - [Espacenet](https://worldwide.espacenet.com/?locale=en_EP) - Patent database provided by EPO.
+- [IPsum](https://www.ipo.gov.uk/p-ipsum.htm) - Patent database provided by UK patent office.
 - [Patent Search and Analytics](http://pss-system.cnipa.gov.cn/sipopublicsearch/portal/uilogin-forwardLogin.shtml) - Patent database provided by CNIPA.
 - [Patent Assignment Search](https://assignment.uspto.gov/patent/index.html#/patent/search) - Search for US patent assignment.
 - [Portal | Unified Patents](https://portal.unifiedpatents.com/) - Portal of Unified Patents for searching PTAB, litigation, standards and patent data.
