@@ -1,5 +1,7 @@
 # Awesome Patent 
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A curated list of good stuff in patent analytics.
 
 **Note**: This repo does not include commercial patent analytic tools.
@@ -47,6 +49,7 @@ A curated list of good stuff in patent analytics.
 - [PTAB API v2](https://developer.uspto.gov/api-catalog/ptab-api-v2) - API for pulling PTAB data.
 - [PatentsView](https://patentsview.org/) - A platform backed by USPTO for patent analytics (including quarterly updated API).
 - [patentsview](https://github.com/ropensci/patentsview) - An R client to the PatentsView API.
+- [Patent analysis using the Google Patents Public Datasets](https://github.com/google/patents-public-data)
 - [Technology Semantic Network (tech-net.org)](http://www.tech-net.org/) - Technology semantic network based on patent data.
   - [Paper :newspaper:](https://arxiv.org/ftp/arxiv/papers/1906/1906.00411.pdf)
 
