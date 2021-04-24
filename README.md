@@ -17,21 +17,22 @@ A curated list of good patent stuff.
 ## Patent Search
 
 - [USPTO Public Pair](https://portal.uspto.gov/pair/PublicPair) - Prosecution history of US patents.
-- [USPTO Patent Full-Text Database](http://patft.uspto.gov/netahtml/PTO/search-adv.htm) - Weekly updated search enginer provided by USPTO.
+- [USPTO Patent Full-Text Database](http://patft.uspto.gov/netahtml/PTO/search-adv.htm) - Weekly updated patent search engine provided by USPTO.
+- [USPTO Patent Application Full-Text Database](http://appft.uspto.gov/netahtml/PTO/search-adv.html) - Weekly updated application search engine provided by USPTO.
+- [USPTO Patent Assignment Search](https://assignment.uspto.gov/patent/index.html#/patent/search) - Search for US patent assignment.
+- [USPTO PTAB Open Data](https://developer.uspto.gov/ptab-web/#/search/decisions) - Search for PTAB proceedings and decisions.
 - [Global Patent Search System 全球专利检索系统](https://gpss3.tipo.gov.tw/gpsskmc/gpssbkm?@@0.8292202859200738) - Patent database provided by Taiwan patent office.
+- [China and Global Patent Examination Information Inquiry 中国及多国专利审查信息查询](http://cpquery.cnipa.gov.cn/) - Prosecution history of Chinese patents.
+- [Patent Search and Analytics 专利检索及分析](http://pss-system.cnipa.gov.cn/sipopublicsearch/portal/uilogin-forwardLogin.shtml) - Patent database provided by CNIPA.
 - [KIPPIS](http://eng.kipris.or.kr/enghome/main.jsp) - Patent database provided by Korea patent office.
-- [China and Global Patent Examination Information Inquiry](http://cpquery.cnipa.gov.cn/) - Prosecution history of Chinese patents.
 - [European Patent Register](https://register.epo.org/regviewer) - Prosecution history of European patents.
 - [PATENTSCOPE](https://patentscope2.wipo.int/search/en/search.jsf) - Patent database provided by WIPO.
 - [J-PlatPat](https://www.j-platpat.inpit.go.jp/) - Patent database provided by JPO.
 - [Espacenet](https://worldwide.espacenet.com/?locale=en_EP) - Patent database provided by EPO.
 - [IPsum](https://www.ipo.gov.uk/p-ipsum.htm) - Patent database provided by UK patent office.
-- [Patent Search and Analytics](http://pss-system.cnipa.gov.cn/sipopublicsearch/portal/uilogin-forwardLogin.shtml) - Patent database provided by CNIPA.
 - [Canadian Patent Database](https://www.ic.gc.ca/opic-cipo/cpd/eng/search/basic.html) - Patent database provided by Canada patent office.
 - [Australian Patent Database](http://pericles.ipaustralia.gov.au/ols/auspat/welcome.do) - Patent database provided by Australia patent office.
-- [Patent Assignment Search](https://assignment.uspto.gov/patent/index.html#/patent/search) - Search for US patent assignment.
 - [Portal | Unified Patents](https://portal.unifiedpatents.com/) - Portal of Unified Patents for searching PTAB, litigation, standards and patent data.
-- [PTAB Open Data](https://developer.uspto.gov/ptab-web/#/search/decisions) - Search for PTAB proceedings and decisions.
 - [Free Patent Online](https://www.freepatentsonline.com/) - A free patent database.
 - [Google Patents](https://patents.google.com/advanced) - Patent database provided by Google.
 - [Google Scholar](https://scholar.google.com/) - Search for opinions in patent litigation.
