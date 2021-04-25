@@ -55,6 +55,8 @@ A curated list of good patent stuff.
 - [HEVC Advance](https://accessadvance.com/) - H.265.
 - [MPEG LA](https://www.mpegla.com/) - H.265.
 - [Velos Media](http://velosmedia.com/) - H.265.
+- [Qualcomm Chinese Cellular Essential Patent List](https://www.qualcomm.com/media/documents/files/chinese-cellular-essential-patent-list.pdf) - Cellular.
+- [ETSI IPR ONLINE DATABASE](https://ipr.etsi.org/) - Search for patents in ETSI.
 
 ## Open Source Tools for Patent Analytics
 
