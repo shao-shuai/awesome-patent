@@ -30,6 +30,7 @@ A curated list of good patent stuff.
 - [J-PlatPat](https://www.j-platpat.inpit.go.jp/) - Patent database provided by JPO.
 - [Espacenet](https://worldwide.espacenet.com/?locale=en_EP) - Patent database provided by EPO.
 - [IPsum](https://www.ipo.gov.uk/p-ipsum.htm) - Patent database provided by UK patent office.
+- [DEPATISnet](https://depatisnet.dpma.de/DepatisNet/depatisnet?window=1&space=menu&content=index&action=index&switchToLang=en) - Patent database provided by German patent office.
 - [Canadian Patent Database](https://www.ic.gc.ca/opic-cipo/cpd/eng/search/basic.html) - Patent database provided by Canada patent office.
 - [Australian Patent Database](http://pericles.ipaustralia.gov.au/ols/auspat/welcome.do) - Patent database provided by Australia patent office.
 - [Portal | Unified Patents](https://portal.unifiedpatents.com/) - Portal of Unified Patents for searching PTAB, litigation, standards and patent data.
