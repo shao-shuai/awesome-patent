@@ -37,6 +37,7 @@ A curated list of good patent stuff.
 - [Free Patent Online](https://www.freepatentsonline.com/) - A free patent database.
 - [Google Patents](https://patents.google.com/advanced) - Patent database provided by Google.
 - [Google Scholar](https://scholar.google.com/) - Search for opinions in patent litigation.
+- [The Lens](https://www.lens.org/) - Free and open patent and scholarly search.
 
 ## Patent Blogs
 
