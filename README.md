@@ -4,7 +4,7 @@
 
 A curated list of good patent stuff.
 
-**Note**: This repo does not include commercial patent tools.
+**Note**: This repo includes both paid and free patent tools.
 
 ## Contents
 
