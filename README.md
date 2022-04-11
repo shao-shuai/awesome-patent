@@ -76,3 +76,6 @@ A curated list of good patent stuff.
 
 - [USPTO IP Marketplace Platform](https://developer.uspto.gov/ipmarketplace/search/patents) - A platform for commercializing your patent.
 
+## Paid Patent Tools
+- [Lex Machina](https://lexmachina.com/) - patent litigation, PTAB cases
+- [Clarivate Innovation](https://clarivate.com/) - previously Thomson Innovation
